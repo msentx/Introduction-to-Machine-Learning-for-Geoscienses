@@ -45,3 +45,6 @@ No prior programming experience is necessary.
 
 ## Background Materials
 http://ciml.info/dl/v0_8/ciml-v0_8-all.pdf
+https://jakevdp.github.io/PythonDataScienceHandbook/
+https://towardsdatascience.com/top-5-machine-learning-libraries-in-python-e36e3e0e02af
+https://www.cs.ubc.ca/~murphyk/MLbook/
