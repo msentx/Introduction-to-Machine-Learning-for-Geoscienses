@@ -14,26 +14,7 @@ recognize the importance of the ML techniques. Computer software and data will b
 No prior programming experience is necessary. 
 
 
-## In Class Exercises
-- Basic introduction to python
-    -Jupyter notebook
-    - Variable types, arrays, if and for loops, functions and structures
-    - Reading and writing simple text data, and .mat files
- - Basic python libraries: numpy, maptplotlib, random, seaborn, pandas, scikit, statsmodel
- - Loading data from files/web
- - Examining, editing and plotting of data sets
- - Basic statistical analysis and plotting, different statistical measures, mean, std dev, correlation, boxplot etc; SVD, PCA
- - Experiment with different Optimizers
- - Simple Machine Learning
- - Basic analysis of flower data/house pricing data
-    - K-means cluster, SVM, K-nearest neighbor
-- Building a neural network model
-- Geological model building [Jackson]
-- Facies classification (from SEG competition)
-- Global temperature change prediction
-- Geochemical Analysis 
-- Aeromagnetic data from UC Davis
-- Simple CNN Example  
+
 
 ## Background Materials
 http://ciml.info/dl/v0_8/ciml-v0_8-all.pdf
