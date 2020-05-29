@@ -1,5 +1,5 @@
 
-![](/home/mrinal/Downloads/dropnet.gif)
+![](dropnet.gif)
 
 
 
