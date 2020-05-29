@@ -1,3 +1,6 @@
+
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif
+
 Machine learning is now being used widely in several areas of science and engineering including
 Geosciences. It is also well recognized that for a successful application of ML, domain
 knowledge is necessary. At the same time, geoscientists must understand the fundamental
@@ -49,4 +52,10 @@ https://jakevdp.github.io/PythonDataScienceHandbook/
 https://towardsdatascience.com/top-5-machine-learning-libraries-in-python-e36e3e0e02af
 https://www.cs.ubc.ca/~murphyk/MLbook/
 
+
 https://d2l.ai/d2l-en.pdf    Dive into Deep learning
+
+
+http://incompleteideas.net/book/RLbook2020.pdf   Reinforced Learning Book
+https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-323-principles-of-optimal-control-spring-2008/lecture-notes/
+
