@@ -9,7 +9,7 @@ recognize the importance of the ML techniques. Computer software and data will b
 No prior programming experience is necessary. 
 
 ## CONTENT
-- Four paradigms of science – the big data revolution \\
+- Four paradigms of science – the big data revolution 
 - How do we learn? Pattern recognition - the basic learning process \\
 - How are the physical models built? \\
 - Teaching a machine how to learn – history of development\\
