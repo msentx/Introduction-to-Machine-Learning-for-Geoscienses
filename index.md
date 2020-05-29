@@ -21,3 +21,24 @@ No prior programming experience is necessary.
 - Geological mapping, Automatic lithological mapping
 - Deep learning methods: denoising of geological and geophysical data, well log interpretation, mapping elastic properties to petrophysical properties etc.
 -  Physics and Machine Learning
+
+## In Class Exercises
+    \item Basic introduction to python
+    \subitem Jupyter notebook
+    \subitem Variable types, arrays, if and for loops, functions and structures
+    \subitem Reading and writing simple text data, and .mat files
+    \item Basic python libraries: numpy, maptplotlib, random, seaborn, pandas, scikit, statsmodel
+    \item Loading data from files/web
+    \subitem Examining, editing and plotting of data sets
+    \item Basic statistical analysis and plotting, different statistical measures, mean, std dev, correlation, boxplot etc; SVD, PCA
+    \item Experiment with different Optimizers
+    \item Simple Machine Learning
+    \item Basic analysis of flower data/house pricing data
+    \subitem K-means cluster, SVM, K-nearest neighbor
+    \item Building a neural network model
+    \item Geological model building [Jackson]
+    \item Facies classification (from SEG competition)
+    \item Global temperature change prediction
+    \item Geochemical Analysis 
+    \item Aeromagnetic data from UC Davis
+    \item Simple CNN Example  
