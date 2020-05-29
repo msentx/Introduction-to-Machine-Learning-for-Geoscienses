@@ -1,5 +1,5 @@
 
-![Alt Text](/home/mrinal/Downloads/dropnet.gif)
+![](/home/mrinal/Downloads/dropnet.gif)
 
 
 
