@@ -14,8 +14,9 @@ No prior programming experience is necessary.
 
 
 
-[Content](<./content.md>)
-[Exercises](../exercises.md>)
+## [Content](<./content.md>)
+
+## [Exercises](../exercises.md>)
 
 ## Background Materials
 http://ciml.info/dl/v0_8/ciml-v0_8-all.pdf
