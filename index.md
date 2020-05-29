@@ -1,7 +1,6 @@
 From https://emerj.com/ai-glossary-terms/what-is-machine-learning/
 ![](dropnet.gif)
 
-[REFERENCES](<./Lists.md>)
 
 Machine learning is now being used widely in several areas of science and engineering including
 Geosciences. It is also well recognized that for a successful application of ML, domain
@@ -15,6 +14,8 @@ No prior programming experience is necessary.
 
 
 
+[Content](<./content.md>)
+[Exercises](../exercises.md>)
 
 ## Background Materials
 http://ciml.info/dl/v0_8/ciml-v0_8-all.pdf
