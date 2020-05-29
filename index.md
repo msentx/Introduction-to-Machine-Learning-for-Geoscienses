@@ -1,4 +1,4 @@
-
+From https://emerj.com/ai-glossary-terms/what-is-machine-learning/
 ![](dropnet.gif)
 
 
