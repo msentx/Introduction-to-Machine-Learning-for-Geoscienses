@@ -42,3 +42,6 @@ No prior programming experience is necessary.
 - Geochemical Analysis 
 - Aeromagnetic data from UC Davis
 - Simple CNN Example  
+
+## Background Materials
+http://ciml.info/dl/v0_8/ciml-v0_8-all.pdf
