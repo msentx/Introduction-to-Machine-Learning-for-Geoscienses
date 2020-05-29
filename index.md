@@ -1,7 +1,7 @@
 From https://emerj.com/ai-glossary-terms/what-is-machine-learning/
 ![](dropnet.gif)
 
-[File] (<./Lists.md>)
+[file] (<./Lists.md>)
 
 [file](<./file with spaces.md>)
 Machine learning is now being used widely in several areas of science and engineering including
