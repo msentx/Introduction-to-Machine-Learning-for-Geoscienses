@@ -1,8 +1,8 @@
 From https://emerj.com/ai-glossary-terms/what-is-machine-learning/
 ![](dropnet.gif)
 
-[References] (./Lists.md)
-
+[References] (<./Lists.md>)
+[file](<./file with spaces.md>)
 Machine learning is now being used widely in several areas of science and engineering including
 Geosciences. It is also well recognized that for a successful application of ML, domain
 knowledge is necessary. At the same time, geoscientists must understand the fundamental
