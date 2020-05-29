@@ -1,7 +1,7 @@
 
 ![Alt Text](/home/mrinal/Downloads/dropnet.gif)
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 
 Machine learning is now being used widely in several areas of science and engineering including
 Geosciences. It is also well recognized that for a successful application of ML, domain
