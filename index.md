@@ -23,8 +23,8 @@ No prior programming experience is necessary.
 -  Physics and Machine Learning
 
 ## In Class Exercises
-    - item Basic introduction to python
-    -- Jupyter notebook
+- item Basic introduction to python
+-- Jupyter notebook
     -- Variable types, arrays, if and for loops, functions and structures
     - Reading and writing simple text data, and .mat files
     - Basic python libraries: numpy, maptplotlib, random, seaborn, pandas, scikit, statsmodel
