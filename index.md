@@ -23,22 +23,22 @@ No prior programming experience is necessary.
 -  Physics and Machine Learning
 
 ## In Class Exercises
-    \item Basic introduction to python
-    \subitem Jupyter notebook
-    \subitem Variable types, arrays, if and for loops, functions and structures
-    \subitem Reading and writing simple text data, and .mat files
-    \item Basic python libraries: numpy, maptplotlib, random, seaborn, pandas, scikit, statsmodel
-    \item Loading data from files/web
-    \subitem Examining, editing and plotting of data sets
-    \item Basic statistical analysis and plotting, different statistical measures, mean, std dev, correlation, boxplot etc; SVD, PCA
-    \item Experiment with different Optimizers
-    \item Simple Machine Learning
-    \item Basic analysis of flower data/house pricing data
-    \subitem K-means cluster, SVM, K-nearest neighbor
-    \item Building a neural network model
-    \item Geological model building [Jackson]
-    \item Facies classification (from SEG competition)
-    \item Global temperature change prediction
-    \item Geochemical Analysis 
-    \item Aeromagnetic data from UC Davis
-    \item Simple CNN Example  
+    - item Basic introduction to python
+    -- Jupyter notebook
+    -- Variable types, arrays, if and for loops, functions and structures
+    - Reading and writing simple text data, and .mat files
+    - Basic python libraries: numpy, maptplotlib, random, seaborn, pandas, scikit, statsmodel
+    - Loading data from files/web
+    - Examining, editing and plotting of data sets
+    - Basic statistical analysis and plotting, different statistical measures, mean, std dev, correlation, boxplot etc; SVD, PCA
+    - Experiment with different Optimizers
+    - Simple Machine Learning
+    - Basic analysis of flower data/house pricing data
+    -- K-means cluster, SVM, K-nearest neighbor
+    - Building a neural network model
+    - Geological model building [Jackson]
+    - Facies classification (from SEG competition)
+    - Global temperature change prediction
+    - Geochemical Analysis 
+    - Aeromagnetic data from UC Davis
+    - Simple CNN Example  
