@@ -18,4 +18,4 @@ No prior programming experience is necessary.
 
 ## [Exercises](./exercises.md>)
 
-
+## [Course Related Materials] (./Materials.md)
